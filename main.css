@@ -1,13 +1,13 @@
-nav {
-	position: fixed;
+header {
 	background-color: orange;
-	width: 100%;
+	margin-bottom: 20px;
 }
 
-.navtext {
+.headertxt {
 	margin-left: 40px;
 }
 
-.char-box {
+.picture {
 	width: 100%;
 }
+
